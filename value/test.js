@@ -1,5 +1,7 @@
 var assert = require('assert');
-var value = require('./');
+var value = require('./v');
+
+console.log(value)
 
 describe('value', function() {
 

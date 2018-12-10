@@ -2,6 +2,21 @@
 
 These are some basic (and advanced) coding challenges
 
+## Done:
+```
+binary search (1 failed test)
+curry
+debounce
+flatten
+map (1 failed test)
+memoize
+once
+sort
+throtle
+update (2 tests failed)
+value
+```
+
 Here's the basic workflow:
 
 ```bash
